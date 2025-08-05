@@ -28,4 +28,4 @@ Documentar o uso das ferramentas Azure Speech Studio e Language Studio, com foco
 As capturas de tela da prática estão na pasta `/images`.
 
 ## 👨‍💻 Autor
-Alifer Rabelo de Oliveira
+Alifer Rabelo
