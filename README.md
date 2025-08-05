@@ -6,8 +6,6 @@ Documentar o uso das ferramentas Azure Speech Studio e Language Studio, com foco
 ## 🧪 Ferramentas Utilizadas
 - Azure Speech Studio
 - Azure Language Studio
-- Conta Microsoft
-- Navegador Web
 
 ## 💻 Atividades Realizadas
 
